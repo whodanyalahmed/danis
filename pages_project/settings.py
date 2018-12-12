@@ -25,7 +25,7 @@ SECRET_KEY = 'e+)8ny%_z6ampwyjuzw4yf8&6lviy+r%k4x%t*#csm3b&6&f6z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['danismobility.herokuapp.com']
 
 
 # Application definition
